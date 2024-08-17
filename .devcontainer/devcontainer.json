@@ -12,7 +12,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ritwickdey.LiveServer"
+				"ritwickdey.LiveServer",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
